@@ -10,7 +10,7 @@ keywords    = ["uni-bonn", "kulturanthropologie", "hausarbeit", "expose", "maste
 categories  = ["thesis", "report"]
 disciplines = ["social-sciences"]
 compiler    = "0.12.0"
-exclude     = ["thumbnail.png"]
+exclude     = [".git"]
 
 [template]
 path       = "template"

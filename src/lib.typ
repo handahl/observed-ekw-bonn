@@ -1,10 +1,8 @@
 // ============================================================
 // src/lib.typ  –  Package-Entrypoint
-// Re-exportiert alle öffentlichen Symbole aus base.typ
+// Wildcard-Import macht alle Symbole aus base.typ zu
+// öffentlichen Symbolen dieses Pakets.
 // SPDX-License-Identifier: MIT-0
 // ============================================================
 
-#import "base.typ": body-font, body-size, foot-size,
-  margin-unbound, margin-bound,
-  set-body-text, apply-headings,
-  lit, blockquote, acit, vcit
+#import "base.typ": *
