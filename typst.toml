@@ -1,0 +1,18 @@
+[package]
+name        = "observed-ekw-bonn"
+version     = "0.1.0"
+entrypoint  = "src/lib.typ"
+authors     = ["handahl <git.o7gb9@handahl.org>"]
+license     = "MIT-0"
+description = "Hausarbeit, Exposé und Masterarbeit an der Uni Bonn (EKW/KA)."
+repository  = "https://github.com/handahl/observed-ekw-bonn"
+keywords    = ["uni-bonn", "kulturanthropologie", "hausarbeit", "expose", "masterarbeit", "ekw"]
+categories  = ["thesis", "report"]
+disciplines = ["social-sciences"]
+compiler    = "0.12.0"
+exclude     = ["thumbnail.png"]
+
+[template]
+path       = "template"
+entrypoint = "main.typ"
+thumbnail  = "thumbnail.png"
