@@ -153,7 +153,7 @@ In: Zeitschrift für Volkskunde 97 (2001), S. 1–20.]
 // Teilnehmende Beobachtung [Ort], [Datum], [Dauer].
 
 // ════════════════════════════════════════════════════════════
-// ANHANG  (eigenes IHV; zählt nicht zum Zeichenumfang)
+// ANHANG  (eigenes Inhaltsverzeichnis; zählt nicht zum Zeichenumfang)
 // ════════════════════════════════════════════════════════════
 #pagebreak()
 #heading(numbering: none)[Anhang]
